@@ -1,0 +1,20 @@
+body {
+    background-color: #16a085;
+    overflow:hidden;
+}
+
+.centered {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.label {
+    font-family: Oswald;
+	font-size: 72px;
+	color: #ffffff;
+	line-height: 72px;
+	margin: 0px;
+}
